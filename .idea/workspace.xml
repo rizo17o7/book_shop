@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71547447-537d-4f1b-a1d9-266508838c4a" name="Changes" comment="" />
+    <list default="true" id="71547447-537d-4f1b-a1d9-266508838c4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/blog-left-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/blog-no-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/error404.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/error404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/index-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/my-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/my-account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/portfolio-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/portfolio-three-column.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/shop-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/shop-left-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/shop-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/shop-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/shop-no-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/shop-right-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/single-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/web/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/web/wishlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
